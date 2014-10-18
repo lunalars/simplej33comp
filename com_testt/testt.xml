@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<extension type="component" version="3.3" method="upgrade">
+	<name>com_testt</name>
+	<author>Joomla! Project</author>
+	<creationDate>April 2006</creationDate>
+	<copyright>(C) 2005 - 2014 Open Source Matters. All rights reserved.	</copyright>
+	<license>GNU General Public License version 2 or later; see	LICENSE.txt</license>
+	<authorEmail>admin@joomla.org</authorEmail>
+	<authorUrl>www.joomla.org</authorUrl>
+	<version>3.3.0</version>
+	<description>COM_MEDIA_XML_DESCRIPTION</description>
+
+	<files folder="site">
+
+	</files>
+
+	<administration>
+		<files>
+			<filename>testt.xml</filename>
+			<filename>testt.php</filename>
+		</files>
+	</administration>
+</extension>
+
